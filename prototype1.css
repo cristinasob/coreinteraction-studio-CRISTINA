@@ -1,0 +1,38 @@
+title{
+font-family: 'Six Caps', sans-serif;
+font-color:black;
+   padding:20px;
+   font-style=opacity:.5;
+   text-align:center;
+   margin: 4pt;
+}
+
+body{
+font-family: 'Six Caps', sans-serif;
+font-color:white;
+font-size:80pt;
+   padding:20px;
+   font-style=opacity:.5;
+   margin: 20pt;
+}
+
+.first-line{
+	background-image:url(some/image/url/);
+font-color:white;
+text-align:center;
+}
+
+.second-line{
+font-color:white;
+text-align:center;
+}
+
+.third-line{
+font-color:white;
+text-align:center;
+}
+.fourth-line{
+font-color:white;
+text-align:center;
+}
+
