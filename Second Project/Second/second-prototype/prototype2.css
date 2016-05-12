@@ -1,0 +1,36 @@
+body{
+font-family: 'Ropa Sans', sans-serif;
+font-color:white;
+padding:40px;
+margin: 20pt;
+}
+
+p{
+text-align:center;
+    font-size:20pt;
+}
+
+h1{
+    text-align:center;
+    font-size:40pt;
+}
+
+#background {
+background-image: url('whale-8.png');
+}
+
+#even-more-foreground {
+    background-image:url('parley-logoo.png');
+
+background-image: url('cc.png');
+}
+
+.mouse-bg {
+left: 0;
+right: 0;
+bottom: 0;
+top: 0;
+position: fixed;
+z-index: -1;
+
+

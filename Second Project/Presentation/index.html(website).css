@@ -1,0 +1,19 @@
+@import url(//https://fonts.googleapis.com/css?family=Ropa+Sans);
+
+body{
+font-family: 'Ropa Sans', sans-serif;
+font-color:white;
+padding:40px;
+margin: 20pt;
+}
+
+p{
+
+text-align:center;
+    font-size:80pt;
+}
+
+h1{
+    text-align:left;
+    font-size:50pt;
+}

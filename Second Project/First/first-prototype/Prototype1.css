@@ -1,0 +1,20 @@
+@import url(//https://fonts.googleapis.com/css?family=Special+Elite);
+
+
+body {
+   font-family: 'Special Elite', cursive;
+   padding:20px;
+   font-style=opacity:0.5px;
+   font-color:black;
+   background: black;
+  margin: 10pt;
+}
+
+#background {
+	opacity:0.3px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+   
