@@ -66,15 +66,4 @@ $('.submit-button').keypress (function (e) {
   $('.letter-input').removeClass('is-hidden');
 });
 
-message.className ='message';
-message.innerHTML += 'From: ' + data.sender + '<br>';
-message.innerHTML += 'Type: ' + data.type + '<br>';
-message.innerHTML += 'Value: ' + data.value;
-messageContainer.appendChild(message);
-
-
-var user=0;
-console.log('new user')
-users=NumUsers;
-
 
