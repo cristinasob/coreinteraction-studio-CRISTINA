@@ -1,0 +1,22 @@
+.container {
+background-color:blue;
+width:400px;
+height:700px;
+margin-bottom:300px;
+
+}
+.top-content {
+background-color:green;
+position:absolute;
+top:10px;
+bottom:10px;
+left:60%;
+width:100%;
+}
+
+.bottom-content {
+background-color:yellow;
+height:300px;
+margin:10px;
+
+}
